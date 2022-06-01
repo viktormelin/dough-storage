@@ -1,0 +1,2 @@
+SendLogs = false 
+DiscordWebhook = ''

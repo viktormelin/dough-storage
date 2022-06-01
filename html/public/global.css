@@ -1,0 +1,13 @@
+body {
+	background: transparent !important;
+	overflow: hidden;
+}
+
+.simplebar-scrollbar:before {
+	background: #fff !important;
+	opacity: 1 !important;
+}
+
+.simplebar-content {
+	height: 100% !important;
+}
